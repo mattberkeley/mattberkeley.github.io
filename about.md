@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-Hey there! My name is Matt Ginelli and it's wonderful to see that you've visited my personal page. I'm using it to ramble, post code, and host my resume -- I hope you find something that'll interest you!
+Hey there! My name is **Matt Ginelli** and it's wonderful to see that you've visited my personal page. I'm using it to ramble, post code, and host my resume -- I hope you find something that'll interest you!
 
 ## Facts
 
