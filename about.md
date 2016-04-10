@@ -17,5 +17,7 @@ Thanks for reading!
 
 <p class="message">
   "Success teaches us nothing; only failure teaches."
+
+<i>- Admiral Hyman G. Rickover, USN</i>
+
 </p>
-*- Admiral Hyman G. Rickover, USN*
